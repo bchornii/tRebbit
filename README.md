@@ -2,6 +2,9 @@
 
 .NET Standart library for subscribing/publishing messages to RabbitMq. Under the hood uses official RabbitMq .NET client, but provides more abstract interface.
 
+# Packages
+[![NuGet version (SoftCircuits.Silk)](https://img.shields.io/nuget/v/tRebbit)](https://www.nuget.org/packages/tRebbit/)
+
 ## Goals
  - Simplify publising/subscribing to events, without referring to RabbitMq building blocks. 
  - Provide basic implementation wich could be extended.
