@@ -2,7 +2,7 @@
 
 .NET Standart library for subscribing/publishing messages to RabbitMq. Under the hood uses official RabbitMq .NET client, but provides more abstract interface.
 
-# Packages
+## Packages
 
 Package               | NuGet Package	                                                                                                                          |Description
 ----------------------|-----------------------------------------------------------------------------------------------------------------------------------------|-----------
